@@ -1,0 +1,15 @@
+..\output\idworld.o: ..\User\idworld.c
+..\output\idworld.o: ..\User\idworld.h
+..\output\idworld.o: ..\User\delay.h
+..\output\idworld.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\idworld.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\output\idworld.o: D:\softwares\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\idworld.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\output\idworld.o: ..\User\stm32f10x_conf.h
+..\output\idworld.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\idworld.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\idworld.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\idworld.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\idworld.o: ..\User\usart.h
+..\output\idworld.o: D:\softwares\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\idworld.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
